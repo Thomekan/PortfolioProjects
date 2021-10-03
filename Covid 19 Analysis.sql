@@ -1,3 +1,8 @@
+  /*** SQL DATA EXPLORATION - ANALYSIS OF COVID 19 DATA 
+  Date: 10/02/2021
+  By: Emeka Thompson
+  Data Source: https://ourworldindata.org/coronavirus ***/
+  
   SELECT *
   FROM PortfolioProject..covid_deaths
 
